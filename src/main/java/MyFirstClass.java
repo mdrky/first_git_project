@@ -5,7 +5,6 @@ public class MyFirstClass {
 
         int i = 0;
 
-
         System.out.println("hello world");
 
     }
